@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Joe Zhou"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - about.qmd
+      - contact.qmd
+      
+format:
+  html:
+    theme:cosmo
+    toc:true
+      

@@ -1,5 +1,25 @@
 ---
-title: "Joe's Website"
+title: "ZeWei Zhou"
+
+format: pdf
 ---
 
-Welcome to Joe's website.
+# Bio
+My name is Joe Zhou and I am currently a university student at the University of Toronto, I study Economics and Mathematics. I am good at programming, especially in the language at Java, Python, and C. I have a background in the Computer Science, however, I then focused on the Economics and there is a founding in the year of 2020 that makes me more interested in the Macroeconomics. 
+
+# Skills
+* **Experienced with the following technologies:**
+ - jQuery, ASP.NET, ADO.NET, PL/SQL, JavaSE, JavaEE, Python, TypeScript, R, STATA, Macroeconomics
+ 
+# Experience
+* **IT-CO-OP Student, Indegene Inc, Mississauga**    JAN 2019 - APR 2019
+  + Collaborated with front-end team
+    - Write Unit Tests in Jasmine and Karma
+  + Fixed assigned bugs from Jira
+    - Created testing object/data in Microsoft Dynamics
+    - Make API calls in Postman
+    - SCSS consistency
+  
+# Education
+**Bachelor of Science - University of Toronto**  <br> SEPTEMBER 2020 - PRESENT            
+EXPECTED GRADUATION DECEMBER 2024
